@@ -1,0 +1,334 @@
+
+body {
+  background-image: url(water.png);
+  background-size: contain;
+  margin: 0px;
+}
+
+#container {
+  position: relative;
+  width: 100%;
+}
+
+img{
+  width: 100%;
+}
+
+.title {
+  font-family: "Anton";
+  font-size: 25px;
+  margin-left: 50px;
+  padding-top: 10px;
+}
+
+.info {
+  font-family: "lato";
+  font-size: 20px;
+  margin-left: 50px;
+  padding-top: 20px;
+}
+
+.item {
+  position: absolute;
+  text-decoration: none;
+  font-family: "anton";
+  color: black;
+  font-size: 16px;
+  padding: 5px;
+  background-color: white;
+  align-items: center;
+}
+
+.noinfo {
+  position: absolute;
+  text-decoration: none;
+  font-family: "anton";
+  color: black;
+  font-size: 16px;
+  padding: 5px;
+  background-color: lightgrey;
+  align-items: center;
+}
+
+.image2 {
+  margin-left: 50px;
+  margin-top: 40px;
+  width: 45%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.image3 {
+  margin-left: 50px;
+  margin-top: 40px;
+  width: 31%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.asia {
+    top: 27%;
+    left: 13%;
+}
+
+.africa {
+    top: 27%;
+    left: 46%;
+}
+
+.australia {
+    top: 27%;
+    right: 15%;
+}
+
+.europe {
+    top: 78%;
+    left: 13%;
+}
+
+.northa {
+    top: 78%;
+    left: 48%;
+}
+
+.southa {
+    top: 78%;
+    right: 12%;
+}
+
+.singapore{
+    top: 72%;
+    right: 40%;
+}
+
+.cambodia{
+    top: 63%;
+    right: 38%;
+}
+
+.hongkong {
+    top: 51%;
+    right: 28%;
+}
+
+.china{
+    top: 20%;
+    right: 50%;
+}
+
+.japan{
+    top: 28%;
+    right: 5%;
+}
+
+.thailand{
+    top: 58%;
+    right: 42%;
+}
+
+.skorea{
+    top: 32%;
+    right: 16%;
+}
+
+.maldives{
+    top: 85%;
+    right: 60%;
+}
+
+.srilanka{
+    top: 72%;
+    right: 57%;
+}
+
+.safrica{
+    top: 90%;
+    right: 47%;
+}
+
+.egypt{
+    top: 32%;
+    right: 40%;
+}
+
+.morocco{
+    top: 24%;
+    right: 70%;
+}
+
+.sydney{
+    top: 68%;
+    right: 24%;
+}
+
+.monaco{
+    top: 71%;
+    right: 62%;
+}
+
+.hungary{
+    top: 66%;
+    right: 48%;
+}
+
+.belgium{
+    top: 55%;
+    right: 62%;
+}
+
+.switzerland{
+    top: 64%;
+    right: 59%;
+}
+
+.italy{
+    top: 76%;
+    right: 55%;
+}
+
+.spain{
+    top: 74%;
+    right: 78%;
+}
+
+.england{
+    top: 49%;
+    right: 67%;
+}
+
+.norway{
+    top: 35%;
+    right: 57%;
+}
+
+.sweden{
+    top: 33%;
+    right: 50%;
+}
+
+.greece{
+    top: 84%;
+    right: 44%;
+}
+
+.austria{
+    top: 64%;
+    right: 54%;
+}
+
+.germany{
+    top: 58%;
+    right: 57%;
+}
+
+.france{
+    top: 63%;
+    right: 66%;
+}
+
+.netherlands{
+    top: 52%;
+    right: 59%;
+}
+
+.poland{
+    top: 54%;
+    right: 51%;
+}
+
+.portugal{
+    top: 71%;
+    right: 82%;
+}
+
+.russia{
+    top: 40%;
+    right: 29%;
+}
+
+.denmark{
+    top: 46%;
+    right: 56%;
+}
+
+.croatia{
+  top: 70%;
+  right: 52%;
+}
+
+.canada{
+    top: 33%;
+    right: 50%;
+}
+
+.ny{
+    top: 51%;
+    right: 28%;
+}
+
+.fl{
+    top: 72%;
+    right: 26%;
+}
+
+.ca{
+    top: 66%;
+    right: 64%;
+}
+
+.ma{
+    top: 50%;
+    right: 20%;
+}
+
+.wi{
+    top: 52%;
+    right: 39%;
+}
+
+.il{
+  top: 58%;
+  right: 40%;
+}
+
+.la{
+    top: 73%;
+    right: 37%;
+}
+
+.maine{
+    top: 46%;
+    right: 23%;
+}
+
+.pa{
+    top: 55%;
+    right: 28%;
+}
+
+.jersey{
+  top: 53%;
+  right: 24%;
+}
+
+.virginia{
+  top: 56%;
+  right: 24%;
+}
+
+.mexico{
+  top: 80%;
+  right: 46%;
+}
+
+.argentina{
+  top: 64%;
+  right: 53%;
+}
+
+.brazil{
+  top: 40%;
+  right: 43%;
+}
